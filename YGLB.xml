@@ -1,0 +1,8 @@
+<Project Version="2" Name="YGLB" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\airport-yglb-goulburn.xml</Package>
+	</Packages>
+</Project>
+
